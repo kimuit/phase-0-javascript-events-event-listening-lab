@@ -1,2 +1,7 @@
-function addingEventListener() {
+
+function addingEventListener() {('main');
+
+    input.addEventListener('click', function (event){
+
+    })
 }
